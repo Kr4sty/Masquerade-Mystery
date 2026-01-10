@@ -1,0 +1,117 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "block/dirt"
+    },
+    "cases": [
+      {
+        "when": "bat",
+        "model": {
+          "type": "model",
+          "model": "item/bat"
+        }
+      },
+	    {
+        "when": "bear",
+        "model": {
+          "type": "model",
+          "model": "item/bear"
+        }
+      },
+	    {
+        "when": "bluejay",
+        "model": {
+          "type": "model",
+          "model": "item/bluejay"
+        }
+      },
+	    {
+        "when": "cat",
+        "model": {
+          "type": "model",
+          "model": "item/cat"
+        }
+      },
+	    {
+        "when": "crow",
+        "model": {
+          "type": "model",
+          "model": "item/crow"
+        }
+      },
+	    {
+        "when": "doberman",
+        "model": {
+          "type": "model",
+          "model": "item/doberman"
+        }
+      },
+	    {
+        "when": "fox",
+        "model": {
+          "type": "model",
+          "model": "item/fox"
+        }
+      },
+	    {
+        "when": "mouse",
+        "model": {
+          "type": "model",
+          "model": "item/mouse"
+        }
+      },
+	    {
+        "when": "otter",
+        "model": {
+          "type": "model",
+          "model": "item/otter"
+        }
+      },
+	    {
+        "when": "owl",
+        "model": {
+          "type": "model",
+          "model": "item/owl"
+        }
+      },
+	    {
+        "when": "peacock",
+        "model": {
+          "type": "model",
+          "model": "item/peacock"
+        }
+      },
+	    {
+        "when": "polarbear",
+        "model": {
+          "type": "model",
+          "model": "item/polarbear"
+        }
+      },
+	    {
+        "when": "racoon",
+        "model": {
+          "type": "model",
+          "model": "item/racoon"
+        }
+      },
+	    {
+        "when": "serval",
+        "model": {
+          "type": "model",
+          "model": "item/serval"
+        }
+      },
+	    {
+        "when": "snake",
+        "model": {
+          "type": "model",
+          "model": "item/snake"
+        }
+      }
+    ]
+  }
+}
