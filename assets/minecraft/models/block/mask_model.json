@@ -2,8 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "MysteryMasquerade:mask",
-		"particle": "MysteryMasquerade:mask"
+		"1": "mysterymasquerade:mask",
+		"particle": "mysterymasquerade:mask"
 	},
 	"elements": [
 		{
